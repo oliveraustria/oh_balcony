@@ -1,2 +1,3 @@
-# oh_balcony
-OH! Balcony
+# OH! Balcony
+
+Das Ardunio-Projekt von Hermann und Oliver :)
